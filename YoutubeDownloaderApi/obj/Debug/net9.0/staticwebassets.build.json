@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cE1sbdpJI0Z5ZO9lEm3tE/ErMQc7sfAqSXxvXq5+a7c=",
+  "Source": "YoutubeDownloaderApi",
+  "BasePath": "_content/YoutubeDownloaderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

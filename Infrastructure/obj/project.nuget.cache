@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xtt8OsrZ2/I=",
+  "success": true,
+  "projectFilePath": "/Users/omerfaruksahan/projects/youtubeDownloaderApi/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/omerfaruksahan/.nuget/packages/anglesharp/1.2.0/anglesharp.1.2.0.nupkg.sha512",
+    "/Users/omerfaruksahan/.nuget/packages/ffmpegcore/5.2.0/ffmpegcore.5.2.0.nupkg.sha512",
+    "/Users/omerfaruksahan/.nuget/packages/instances/3.0.1/instances.3.0.1.nupkg.sha512",
+    "/Users/omerfaruksahan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/omerfaruksahan/.nuget/packages/system.text.json/9.0.2/system.text.json.9.0.2.nupkg.sha512",
+    "/Users/omerfaruksahan/.nuget/packages/youtubedlsharp/1.1.2/youtubedlsharp.1.1.2.nupkg.sha512",
+    "/Users/omerfaruksahan/.nuget/packages/youtubeexplode/6.5.4/youtubeexplode.6.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

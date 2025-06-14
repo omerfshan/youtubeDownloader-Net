@@ -1,0 +1,15 @@
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/bin/Debug/net9.0/Aplication.deps.json
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/bin/Debug/net9.0/Aplication.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/bin/Debug/net9.0/Aplication.pdb
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/bin/Debug/net9.0/Domain.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/bin/Debug/net9.0/Domain.pdb
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.csproj.AssemblyReference.cache
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.AssemblyInfo.cs
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.csproj.Up2Date
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/refint/Aplication.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/Aplication.pdb
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Aplication/obj/Debug/net9.0/ref/Aplication.dll

@@ -1,0 +1,11 @@
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/bin/Debug/net9.0/Domain.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/Domain.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/omerfaruksahan/projects/youtubeDownloaderApi/Domain/obj/Debug/net9.0/ref/Domain.dll

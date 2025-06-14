@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDownloaderApi", "YoutubeDownloaderApi\YoutubeDownloaderApi.csproj", "{9FD05DF1-95EF-432E-8C76-12B20BC27E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication", "Aplication\Aplication.csproj", "{2680BB53-17B4-4B55-B8A9-03C0259F02AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5B49C044-C4EA-4994-A9F2-B70EC297CE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{ABA8C894-E7C0-4C8C-A13E-55D32FA8FB23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD05DF1-95EF-432E-8C76-12B20BC27E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD05DF1-95EF-432E-8C76-12B20BC27E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD05DF1-95EF-432E-8C76-12B20BC27E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD05DF1-95EF-432E-8C76-12B20BC27E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2680BB53-17B4-4B55-B8A9-03C0259F02AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2680BB53-17B4-4B55-B8A9-03C0259F02AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2680BB53-17B4-4B55-B8A9-03C0259F02AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2680BB53-17B4-4B55-B8A9-03C0259F02AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B49C044-C4EA-4994-A9F2-B70EC297CE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B49C044-C4EA-4994-A9F2-B70EC297CE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B49C044-C4EA-4994-A9F2-B70EC297CE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B49C044-C4EA-4994-A9F2-B70EC297CE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA8C894-E7C0-4C8C-A13E-55D32FA8FB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA8C894-E7C0-4C8C-A13E-55D32FA8FB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA8C894-E7C0-4C8C-A13E-55D32FA8FB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA8C894-E7C0-4C8C-A13E-55D32FA8FB23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
